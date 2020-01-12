@@ -20,8 +20,7 @@ header img {
 h1,h2{font-family:"Solway", "Times New Roman", serif;
   margin-bottom:-10px;
 }
-p,h2,ul{color:#3f609f;}
-h1{color:white;}
+p,h1,h2,ul{color:#c4ad64;}
 p,h1,h2{text-align: center;}
 body{font-family:"Open Sans", "Arial", sans-serif;}
 nav {background-color: #3f609f;
@@ -33,7 +32,7 @@ nav {background-color: #3f609f;
   border-radius: 5px;
 }
 
-a {color: #3f609f;
+a {color: #c4ad64;
 font-size: 1.2em;
 line-height:2;
 }
